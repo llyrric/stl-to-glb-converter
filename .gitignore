@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# Build/test artifacts
+test_output/
+*.glb
+
+# OS cruft
+.DS_Store
+Thumbs.db
